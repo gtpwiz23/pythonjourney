@@ -70,4 +70,4 @@ variable_1_2_combined=(variable_1, variable_2)"""
 print("Enter your name and favorite number:")
 x = input()
 y = input()
-print("Hello, " + x + ', ' + y)
+print("Hello, " + x + 'favorite number ' + y)
